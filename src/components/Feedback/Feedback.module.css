@@ -1,0 +1,18 @@
+.container{
+    max-width: 150px;
+    font-size: 15px;
+}
+
+.feedback {
+    display: flex;
+    justify-content: space-between;
+}
+
+.rating {
+    padding: 2px 10px;
+    width: 50px;
+    text-align: center;
+    font-weight: 400;
+    color: #000;
+    background: fff;
+}

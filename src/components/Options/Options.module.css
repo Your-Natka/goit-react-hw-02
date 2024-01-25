@@ -1,0 +1,19 @@
+.button {
+    margin-right: 6px;
+    width: 100px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
+    background-color: lightgray;
+    border: 2px solid darkgrey;
+    border-radius: 8%;
+}
+
+.button:hover,
+.button:focus,
+.button:active {
+    cursor: pointer;
+    border-color: black;
+    background-color: darkgray;
+}
